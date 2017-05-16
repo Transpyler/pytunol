@@ -1,0 +1,5 @@
+=======
+Licença
+=======
+
+.. include:: ../LICENSE
